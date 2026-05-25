@@ -2,8 +2,8 @@ ITALO 4U Radio	http://91.232.4.33:8018/stream	0
 Radio Party	http://s1.radioparty.pl:8000/stream	30	
 Radio Disco Party.pl	http://145.239.26.146:7432/;	0	
 VOX FM	https://waw.ic.smcdn.pl/3990-1.aac	0	
-Radio 90	http://srv0.streamradiowy.eu:80/radio90	0	
-ESKA Slask	https://waw.ic.smcdn.pl/2220-1.aac	0	
+RADIO 90	http://srv0.streamradiowy.eu:80/radio90	0	
+ESKA ŚLĄSK	https://waw.ic.smcdn.pl/2220-1.aac	0	
 RMF MAXX	http://195.150.20.244/rmf_maxxx_slk	0	
 RMF MAXX Hop-Bec	http://195.150.20.7/rmf_hop_bec	0	
 RMF FM	http://217.74.72.12/rmf_fm	20	
@@ -35,7 +35,7 @@ Radio Party Energy 2000	http://s1.radioparty.pl:8005/energy2000	0
 Radio MBOX	https://panel.radiombox.pl/radio/8040/GoldHits320kbps	0	
 Mbox	http://panel.radiombox.pl/radio/8000/RadioMbox320	0	
 Laserbeat FM	http://stream.laut.fm/laserbeat-fm	0	
-Radio Pasja Glowny	http://91.232.4.33:8049/stream2	30	
+Radio Pasja Główny	http://91.232.4.33:8049/stream2	30	
 Twoje Radio AM	http://s1.slotex.pl:7424/;	0	
 Radio Pogoda	http://stream10.radioagora.pl:80/tuba143-1.mp3	20	
 Radio Victoria	http://stream.v4.radiovictoria.pl:8176/;	30	
@@ -106,7 +106,7 @@ Radio Beat	https://s3.slotex.pl:7816/stream/1/	0
 Radio Bon Ton	https://streaming.inten.pl:8020/bonton.mp3	0	
 Radio DiscoParty.pl	https://s3.slotex.pl:7354/stream/1/	20	
 Radio Dobra Nuta	https://s3.slotex.pl:7100/stream/1/	0	
-Radio Elblag	http://n05.radiojar.com/q87xmtvrrg8uv	0	
+Radio Elbląg	http://n05.radiojar.com/q87xmtvrrg8uv	0	
 Radio Malbork	http://stream3.nadaje.com:9022	0	
 Radio Świnoujście	http://185.243.52.116:8010	0	
 Plock FM	https://stream.rcs.revma.com/6qvcy46wmc9uv	0	
@@ -147,7 +147,7 @@ FM 40 Rock & Roll	http://listen.livestreamingservice.com/181-rock40_128k.mp3	0
 Vinyl Maxi FM	https://stream.laut.fm/vinyl-maxi-fm	0	
 Radiodillo	https://stream.laut.fm/radiodillo	0	
 Energy Extravagance	https://edge09.streamonkey.net/energy-hamburg/stream/mp3?aggregator=icecastdirectory	0	
-Polskie Radio Londyn	https://n28a-eu.rcs.revma.com:443/v61s40vqa78uv	0	
+Polskie Radio Londyn	https://n28a-eu.rcs.revma.com:443/v61s40vqa78uv	25	
 Energy Radio London	http://lunar.citrus3.com:9038/stream	0	
 Sami Swoi Radio	https://s2.radio.co:80/s0dc6b5c9b/listen	0	
 Dance Land	http://likeradiostream.com/danceland?ref=RF	0	
@@ -155,8 +155,8 @@ Radio Caroline	https://stream.radiocaroline.net/rc128/;stream.mp3	0
 Radio 1 Eger	https://dc2.dcsolutions.hu:8445/radio1eger	0	
 Radio Centrum	http://shot2.inten.pl:8888/rcfm.mp3	0	
 Radio Fest	https://play.radiofest.pl:8443/fest	0	
-Radio Wrzesnia	https://s1.slotex.pl:7446/listen.mp3	0	
-Radio 5 Suwalki	http://streaming.radio5.com.pl:8880/radio5suwalki	0	
+Radio Września	https://s1.slotex.pl:7446/listen.mp3	0	
+Radio 5 Suwałki	http://streaming.radio5.com.pl:8880/radio5suwalki	0	
 WPNA Radio USA	https://mercury.reliastream.com/proxy/wpnafmad?mp=/stream	0	
 Radio Vanessa	https://s1.slotex.pl:7358/;	0	
 Retro FM	https://edge01.cdn.bitflip.ee:8888/RetroFMBackUp	0	
@@ -166,11 +166,10 @@ Radio Bielsko	https://stream.rcs.revma.com/062uq3z3kwzuv	0
 Radio Kolor FM	https://stream.rcs.revma.com/nrfscb49xd3vv	0	
 Dance FM Moldova	http://37.233.41.76:8000/dancefm	0	
 DJ CMO	https://stream.laut.fm/dj-cmo_in_owl	0	
-The Vibe Dancefloor	http://audio.ptisp.com:8046/live	0	
 Discoteam Phoenix	https://stream.laut.fm/discoteam-phoenix	0	
 Radio MidtSjaelland	http://player.radiomidt.dk/broadwave.mp3	0	
 Italo Radio FM	http://beiaard.ddns.net:8102/stream	0	
-Melodia FM	https://online.melodiafm.ua/MelodiaFM_Disco_HD	0	
+Melodia FM Ukraine	https://online.melodiafm.ua/MelodiaFM_Disco_HD	0	
 Sunshine Radio	http://stream.sunshinefm.hu:8100/sunshine	0	
 Galaxy Hit Radio	https://stream.laut.fm/galaxy-hitradio	0	
 Mega Charts	https://stream.laut.fm/mega	0	
@@ -198,14 +197,14 @@ Radio Bloodstream	http://uk1.internet-radio.com:8294/stream	0
 Music Is My Life PL	https://s3.slotex.pl:7496/;	0	
 Italo Disco Classic	https://ams-pioneer02.dedicateware.com:2485/stream	0	
 Italo Disco New	https://ams-pioneer02.dedicateware.com:2545/stream	0	
-Euro Disco	https://ams-pioneer02.dedicateware.com:2655/stream	0
-Italo Disco In The MIX  https://ams-pioneer02.dedicateware.com:2765/stream  0
+Euro Disco	https://ams-pioneer02.dedicateware.com:2655/stream	0	
+Italo Disco In The MIX	https://ams-pioneer02.dedicateware.com:2765/stream	0	
 Gherla FM	http://89.39.189.52:8000/stream;	0	
 Play 90s	https://live.playradio.org:8443/90HD	0	
 DIRE STRAITS Streaming	http://streaming.exclusive.radio/er/direstraits/icecast.audio	0	
-SCORPIONS Streaming	http://streaming.exclusive.radio/er/scorpions/icecast.audio	0	
-METALICA Streaming	https://nl4.mystreaming.net/er/metallica/icecast.audio	0	
-ROXETTE Streaming	http://streaming.exclusive.radio/er/roxette/icecast.audio	0	
+SCORPIONS STREAMING	http://streaming.exclusive.radio/er/scorpions/icecast.audio	0	
+METALICA STREAMING	https://nl4.mystreaming.net/er/metallica/icecast.audio	0	
+ROXETTE STREAMING	http://streaming.exclusive.radio/er/roxette/icecast.audio	0	
 DEPECHE MODE Streaming	http://streaming.exclusive.radio/er/depechemode/icecast.audio	0	
 Radio Yanosik	https://stream.rcs.revma.com/7vhveccrnquvv	0	
 ESKA Do Pracy	https://ic2.smcdn.pl/6140-1.mp3	20	
@@ -232,4 +231,4 @@ Roxy Radio	https://s2.audiostream.hu/roxy_192k	0
 PulsR Hitparty	http://193.200.43.23:80/hitpartyHD.mp3	0	
 Radio 1	http://109.199.61.180:80/5201/live.mp3	0	
 Antyradio Greatest	https://an02.cdn.eurozet.pl/ANTGRE.mp3	20	
-Teszt LapFox (320 VOR)	https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg	0	
+Teszt LapFox (320 VOR)	https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg	0
