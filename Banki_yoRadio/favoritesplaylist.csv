@@ -1,19 +1,19 @@
+RMF 24	http://195.150.20.7/rmf_24	0	
+RMF FM	http://217.74.72.12/rmf_fm	20	
+VOX FM	https://waw.ic.smcdn.pl/3990-1.aac	0	
+ESKA ŚLĄSK	https://waw.ic.smcdn.pl/2220-1.aac	0	
 ITALO 4U Radio	http://91.232.4.33:8018/stream	0	
 Radio Party	http://s1.radioparty.pl:8000/stream	30	
 Radio Disco Party.pl	http://145.239.26.146:7432/;	0	
-VOX FM	https://waw.ic.smcdn.pl/3990-1.aac	0	
 RADIO 90	http://srv0.streamradiowy.eu:80/radio90	0	
-ESKA ŚLĄSK	https://waw.ic.smcdn.pl/2220-1.aac	0	
 RMF MAXX	http://195.150.20.244/rmf_maxxx_slk	0	
-RMF MAXX Hop-Bec	http://195.150.20.7/rmf_hop_bec	0	
-RMF FM	http://217.74.72.12/rmf_fm	20	
-RMF 24	http://195.150.20.7/rmf_24	0	
+RMF MAXX Hop-Bęc	http://195.150.20.7/rmf_hop_bec	0	
 MEGA DANCE RADIO	http://gamershouse.hu:8000/livemega.mp3	0	
 SUPERDJ Radio	https://s03.diazol.hu:35150/stream	0	
 Danubis Radio	https://stream.danubiusradio.hu/danubius_320k	0	
 Yuventus Radio	https://s2.audiostream.hu/juventus_320k	0	
 GAY FM	http://icepool.silvacast.com/GAYFM.mp3	0	
-Radio Zlote Przeboje	https://radiostream.pl/tuba8910-1.mp3	0	
+Radio Złote Przeboje	https://radiostream.pl/tuba8910-1.mp3	0	
 Radio ZET	http://zt01.cdn.eurozet.pl/zet-net.mp3	0	
 Radio Cdis	https://stream.laut.fm/radiocdis	0	
 Radio Cyberstacja.fm	http://sc.cyberstacja.pl:8000/radio.mp3	0	
@@ -28,7 +28,7 @@ Radio Parada	http://stream4.nadaje.com:15274/live	0
 Radio Bayer FM	http://streaming.radio5.com.pl:8880/bayerfm	0	
 Muzyczne Radio	http://stream3.technologicznie.net:80/muzyczne_radio_192.mp3	0	
 Super FM Szczecin	http://stream.super.fm:8000/superfm.mp3	0	
-Strefa FM Piotrkow	http://play.strefa.fm:8000/strefa.mp3	0	
+Strefa FM Piotrków	http://play.strefa.fm:8000/strefa.mp3	0	
 Radio Koszalin	http://91.232.4.33:9680/stream	0	
 Radio Katowice	http://stream4.nadaje.com:9212/radiokatowice	0	
 Radio Party Energy 2000	http://s1.radioparty.pl:8005/energy2000	0	
@@ -50,7 +50,7 @@ MonsterFM-Tophits	http://tophits.radiomonster.fm/320.mp3	0
 MonsterFM-Dance	http://dance.radiomonster.fm/320.mp3	0	
 MonsterFM-Schlager	http://schlager.radiomonster.fm/320.mp3	0	
 Hi On Line Latin	http://mediaserv33.live-streams.nl:8034/stream	0	
-Hitradio	http://51.255.8.139:9090/stream	0	
+Hitradio	http://51.255.8.139:9090/stream	10	
 Intense Radio	https://intenseradio.live-streams.nl:18000/live	0	
 Synthetic FM	http://stream.syntheticfm.com:8040/stream	0	
 PARTY VIBE-REGGAE	http://94.130.242.5:8000/stream	20	
@@ -84,13 +84,11 @@ Radio Muza 80	http://91.232.4.33:9011/stream	0
 Panorama 80	https://stream.laut.fm/panorama80	0	
 Heart 80s	https://ice-sov.musicradio.com/Heart80sMP3	30	
 Unsung 80s Radio	https://unsung80s.out.airtime.pro:8000/unsung80s_a	30	
-Radio One Live 80s & 90s	http://91.232.4.33:8198/stream	30	
+Radio One Live 80s & 90s	http://91.232.4.33:8198/stream	20	
 90s 90s Hits	https://streams.90s90s.de/pop/mp3-192/	0	
 Mbox - Disco Polo	http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps	0	
 Mbox - Gold Hits	http://panel.radiombox.pl/radio/8040/GoldHits320kbps	0	
 Hitsound-Fm	https://s3.slotex.pl:7202/stream/1/	0	
-Radio Nedds24.pl	http://s1.nedds24.pl:8100/radio.mp3	0	
-Radio Nedds24.pl - Disco	http://s1.nedds24.pl:8120/radio.mp3	0	
 Radio Dla Ciebie	http://stream2.nadaje.com:11140/rdc	0	
 Radio Express FM	https://stream.rcs.revma.com/yx6cub73kwzuv	0	
 Euro Radio	https://stream.laut.fm/euroradio	30	
@@ -110,8 +108,8 @@ Radio Elbląg	http://n05.radiojar.com/q87xmtvrrg8uv	0
 Radio Malbork	http://stream3.nadaje.com:9022	0	
 Radio Świnoujście	http://185.243.52.116:8010	0	
 Plock FM	https://stream.rcs.revma.com/6qvcy46wmc9uv	0	
-Radio Flirt	https://s3.slotex.pl:7684/stream/1/	20	
-Radio Hit-Radio.pl	http://51.255.8.139:9090/stream	0	
+Radio Flirt	https://s3.slotex.pl:7684/stream/1/	15	
+Radio Hit-Radio.pl	http://51.255.8.139:9090/stream	15	
 Radio Ibiza	https://streams.radio.co/sd1bcd1376/listen	0	
 Radio Index	https://stream.wzielonej.pl/radio/8000/1	0	
 Radio Jard	http://online.jard.pl:8744/jard1	30	
@@ -191,7 +189,6 @@ Beatdevil Radio	https://stream.laut.fm/beatdevilradio	0
 ETS Radio Club Mix	https://stream.laut.fm/etsradio-2	0	
 Free FM World Denmark	http://rocafmadrid.radioca.st/dk	0	
 Radio Max Hit Polska	https://s3.slotex.pl:7370/stream	0	
-Radio Music CZECH	https://mpc1.mediacp.eu:8410/stream	10	
 Radio TOP80s	http://stream12.hosterion.pl:4240/;	0	
 Radio Bloodstream	http://uk1.internet-radio.com:8294/stream	0	
 Music Is My Life PL	https://s3.slotex.pl:7496/;	0	
@@ -230,5 +227,5 @@ SuperDj Radio	https://s03.diazol.hu:35152/stream	0
 Roxy Radio	https://s2.audiostream.hu/roxy_192k	0	
 PulsR Hitparty	http://193.200.43.23:80/hitpartyHD.mp3	0	
 Radio 1	http://109.199.61.180:80/5201/live.mp3	0	
-Antyradio Greatest	https://an02.cdn.eurozet.pl/ANTGRE.mp3	20	
+Antyradio Greatest	https://an02.cdn.eurozet.pl/ANTGRE.mp3	30	
 Teszt LapFox (320 VOR)	https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg	0
